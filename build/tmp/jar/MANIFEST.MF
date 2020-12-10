@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: arnariachat
+Specification-Vendor: jhonnystene
+Specification-Version: 1
+Implementation-Title: arnaria-chat
+Implementation-Version: 1.0
+Implementation-Vendor: jhonnystene
+Implementation-Timestamp: 2020-12-10T13:56:03-0700
+
